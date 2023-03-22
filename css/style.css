@@ -1,0 +1,23 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255) !important;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+
+}
+
+.image-wrapper {
+    height: calc(100vh - 66px);
+    width: 100%;
+}
+
+/* .carousel-caption h5,
+p {
+    color: brown;
+    font-size: 30px;
+    font-weight: 400;
+} */
