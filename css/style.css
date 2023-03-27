@@ -9,15 +9,3 @@
     height: auto;
 
 }
-
-.image-wrapper {
-    height: calc(100vh - 66px);
-    width: 100%;
-}
-
-/* .carousel-caption h5,
-p {
-    color: brown;
-    font-size: 30px;
-    font-weight: 400;
-} */
